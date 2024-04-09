@@ -4,6 +4,7 @@
   "description": "Start to learn react from akshay to get more clear idea ", 
   "scripts": {
     "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest "
   }, 
   "repository": {
